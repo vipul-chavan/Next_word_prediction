@@ -1,7 +1,7 @@
-Next Word Prediction with TensorFlow and Streamlit
+# Next Word Prediction with TensorFlow and Streamlit
 This project implements a Next Word Prediction model using TensorFlow and provides a simple user interface using Streamlit. The model is trained to predict the next word in a sequence of text based on pre-existing data.
 
-#Features
+# Features
 Next Word Prediction Model: Utilizes a pre-trained TensorFlow model for predicting the next word in a given text sequence.
 Streamlit UI: Implements a user-friendly interface with Streamlit, allowing users to input text and receive predictions.
 Easy Deployment: Streamlit makes it easy to deploy and share the application without the need for complex setups.
