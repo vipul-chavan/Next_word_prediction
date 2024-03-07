@@ -1,0 +1,123 @@
+“If only I had more self-control.”
+“I don’t have such an iron mind.”
+“I want to enjoy life, too — not just suffer.”
+
+These are comments I might get when people learn about my lifestyle.
+
+I’m one of those annoying people who eats lots of fruits and vegetables, exercises five times a week, saves a portion of their salary, and writes or reads every morning before work — I have good self-control. What’s more, retaining this lifestyle doesn’t feel particularly difficult to me; I don’t grit my teeth to avoid unhealthy foods, the warmth of the couch, or Black Friday deals.
+
+That’s why I’ve often wondered why some people succeed at resisting temptations while others struggle.
+
+To find some answers, I decided to peek into the science of willpower. A peek turned into a deep dive, and I ended up reading over 25 academic papers over the course of two months.
+
+Now I want to share with you what I learned. Consider it a story about how researchers learned what good self-controllers knew all along.
+
+A row of people in karate uniforms sitting in meditation position
+Photo by Thao LEE on Unsplash
+The lucky ones with good self-control
+I have some good news and some bad news for the ones who believe they need stronger willpower to reach their professional, academic, dietary, athletic, or any other goals.
+
+Let’s start with the “bad” news:
+High self-control does predict many positive life outcomes: People who’re good at self-control do better in school, have fewer mental health problems, have better relationships with friends and family, and generally exhibit fewer impulsive behaviors like binge eating and alcohol abuse.¹
+
+They’re even happier:
+
+“Contrary to the Puritan hypothesis and other views of self-control as grim sacrifice and stern self-discipline, people with high [trait self-control] typically felt better than others even in the present moment, as well as being more satisfied with their lives in general.”²
+
+(I’m sorry if you were secretly wishing they’d at least be miserable.)
+
+One group of researchers went as far as calling self-control “one of the most powerful and beneficial adaptations of the human psyche.”¹ Hyperbole, much?
+
+Here’s the good news:
+Having good self-control doesn’t mean a constant battle against temptations. The kind of self-control that gets you all those good outcomes is more effortless than what’s commonly suggested by the terms “willpower” and “self-discipline.”
+
+The rest of this article will be devoted to explaining why that is. The point is not to claim that resisting temptations in the moment doesn’t work (in fact, it works about 80% of the time³) but to show that that’s not what good self-controllers are generally relying on.
+
+When we resist temptations, we get depleted — some more than others
+Looking at the type of research conducted under the notion of self-control, it seems like researchers took the term literally and found a convenient way to study it in a lab: “Self-control must be about ‘self’ and ‘control’ so let’s see what happens when people resist temptation.”
+
+A popular way to study such in-the-moment acts of self-control has been the dual-task paradigm. As the name suggests, it has two parts:
+
+First, participants do a task that requires resisting temptation or inhibiting impulses. For example, they’re asked to eat radishes while staring at a bowl of cookies or to avoid showing or feeling any emotions while watching a movie.⁴
+Then, the participants do a second, unrelated task — often some kind of puzzle like a series of anagrams.
+What most of these experiments find is that the people who need to exert self-control in the first part perform less well in the second one.⁵ Based on these findings, researchers have argued that:
+
+Resisting temptations is tiring. The resulting mental fatigue has been coined ego depletion.
+Self-control draws upon a limited resource similarly to a muscle, hence the term muscle/strength model of self-control.⁴
+But here’s the twist:
+The positive life outcomes discussed earlier aren’t based on ego depletion studies; they‘re primarily based on studies which have measured self-control through a self-report questionnaire.¹ So up until recently, we didn’t know what exactly was driving them.
+
+Do some people just have stronger willpower muscles, meaning they get less depleted after resisting temptations? Based on the number of studies on ego depletion this is a tempting hypothesis.
+
+Luckily, we don’t have to guess because a group of German researchers put it to the test.⁶ They set up experiments following the dual-task paradigm, but they also measured participants’ level of self-control via a questionnaire (the same one used in the meta-analysis associating self-control with many desirable life outcomes).
+
+What they found was that good self-controllers were more vulnerable to ego depletion: They ate more candy and made riskier decisions in a game of dice after exerting self-control.⁶ More candy? Riskier decisions?
+
+“Trait self-control did not buffer against ego depletion; the people describing themselves as good self-controllers seemed to have weaker, not stronger, self-control muscles.”
+
+The researchers called these results ironic for a reason. Trait self-control did not buffer against ego depletion; the people describing themselves as good self-controllers seemed to have weaker — not stronger — self-control muscles.
+
+What’s going on? If trait self-control doesn’t protect against ego depletion, what’s behind all those desirable life outcomes?
+
+People with high self-control experience fewer temptations in their daily lives
+While I was researching this article, all roads seemed to lead to one particular paper that wasn’t even directly about self-control. Based on the number of times it was referenced, its findings seemed to really have taken the self-control community by surprise.
+
+The paper was about everyday temptations, or in academese, the “phenomenology of desire in everyday life,” and it applied the experience sampling method.³
+
+Basically, the researchers asked about 200 people in Würzburg, Germany, to wear beepers for a week and to report on their current or recent desires whenever the beeper went off (seven times each day). If they were experiencing a desire, they were asked a few clarifying questions about it and, on some samples, also about the situation they were in (e.g., whether they’d consumed alcohol or whether they were alone or in company).
+
+Most of the study’s findings were unsurprising:
+
+Participants were experiencing some type of desire about 50% of the time.
+Most commonly, they wished to eat, sleep, drink, use media, or have leisure time or social contact.
+When participants applied self-control, they often managed to resist the temptation they were facing, about 80% of the time.
+But the findings related to a specific subset of participants — the ones scoring high on a trait measure of self-control— were more surprising. These participants didn’t have fewer desires overall, but they did have fewer problematic desires: They reported less conflict and less resistance related to their desires.
+
+In other words, the people who scored high on trait self-control experienced fewer temptations in their daily lives.
+
+These findings are like having researchers finally move their focus away from individual acts of self-control to the people who’re actually good at it only to find these people smirking, “You thought we were going through life gritting our teeth, huh? Oh, you fools!”
+
+“People with high levels of trait self-control are good at avoiding temptation — not resisting it.”
+
+What did the authors of the everyday temptation paper make of their findings? Well, they suggested that people with high levels of trait self-control are good at avoiding temptation — not resisting it.
+
+“This conclusion suggests a reconsideration of how this trait operates.”³ Oh snap!
+
+Their conclusion also aligns with the ironic findings related to ego depletion: If good self-controllers generally avoid temptation, it’s understandable that they’d perform poorly when put into an artificial situation in which they’re forced to resist temptation.⁶ If you don’t lift heavy things, you’re not gonna get strong.
+
+Another study tested this temptation-avoidance hypothesis and found that the people who scored high on trait self-control also reported more frequently using strategies to minimize or avoid temptation.⁷ And it wasn’t all talk: They were more likely to choose to work without distractions, for example, to pick a quiet room over a noisy one before beginning a problem-solving task.
+
+But making individual smart choices doesn’t seem to be the only reason good self-controllers experience fewer temptations.
+
+People with high self-control are good at building and breaking habits
+The findings related to temptation avoidance have made researchers curious about the role habits may play in self-control. After all, habits are a way to reduce resistance by automatizing a behavior. Maybe that’s what those lucky people are good at.
+
+This does seem to be the case. One meta-analysis found that trait self-control was more strongly associated with automatic rather than consciously controlled behaviors.⁸
+
+More specifically, people high in trait self-control have been found to have…
+
+weaker unhealthy snacking habits,⁹
+stronger exercise habits,¹⁰ and
+stronger meditation habits three months after a meditation retreat.¹¹
+It seems that “by relying on stable habits and routines, individuals with better self-control can enact important behaviors more automatically and effortlessly.”¹¹
+
+Trait self-control doesn’t, however, predict behavior equally across life domains. It has the strongest effects on work and school behavior.⁸
+
+This makes sense if trait self-control is about building and breaking habits: It may be easier to create routines around working and studying as opposed to, for example, eating behavior which is much more affected by natural drives and genetic predispositions.⁸ It’s as if good self-controllers were saying, “If we can routinize it, we can ace it.”
+
+“The findings we’ve covered so far make it increasingly difficult to view self-control as an ‘all-purpose inhibiting mechanism.’ No wonder researchers have begun to differentiate between effortful and effortless self-control.”
+
+The findings we’ve covered so far make it increasingly difficult to view self-control as an “all-purpose inhibiting mechanism.”⁸ No wonder researchers have begun to differentiate between effortful and effortless self-control.
+
+And although effortful self-control is common in everyday life, the effortless kind seems to be the one driving those enviable long-term outcomes.
+
+Meta-self-control — preventing the need for effortful self-control
+I recently told a friend about how I regulate my TV-watching behavior: I try to refrain from starting a new series because I know that if I do, I’ll end up binge-watching the entire season. “That requires self-discipline,” my friend commented.
+
+My friend was right: It requires self-discipline not to start a new series. But not starting a new series requires less self-discipline than not watching another episode of Ted Lasso after just finishing one.
+
+The fact that good self-controllers experience fewer temptations doesn’t mean that they never use self-control. They just use self-control more strategically or at an earlier stage:
+
+“To be sure, avoiding temptation is itself an act of self-regulation, indeed one requiring forethought, effective anticipation, and self-knowledge. — — In a sense, avoiding temptation is a meta-regulation strategy that enables the self-regulator to manage self-regulatory resources effectively. By avoiding temptations, one can save oneself the presumably greater expenditure of willpower that would be necessary to resist them, thereby putting oneself less often into a depleted and vulnerable state.”⁷
+
+The people who seem good at self-control are probably just good at anticipating potential self-control failure and doing things to prevent it. They’re acing meta-self-control.
