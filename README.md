@@ -14,3 +14,7 @@ Easy Deployment: Streamlit makes it easy to deploy and share the application wit
 3] Run the Streamlit app with streamlit run main.py.
 
 Feel free to explore and contribute to enhance the capabilities of the model or improve the user interface!
+
+# Screenshot of UI 
+
+![image](https://github.com/vipul-chavan/Next_word_prediction/assets/65064718/381322e4-c400-48ef-9aee-f9dde2999363)
